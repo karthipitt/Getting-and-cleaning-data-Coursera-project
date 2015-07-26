@@ -8,16 +8,22 @@ Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
 More information about the Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The initial data set was organized in these files, subject_train.txt, subject_test.txt, x_train.txt, x_test.txt, y_train.txt, y_test.txt.
+
 All the above data sets were merged to one initial data frame with the following variables.
 
 [1] subject_id : ID of the subject performing an activity
 [2] activity: ID corresponding to one of the following activities
 
 1 WALKING
+
 2 WALKING_UPSTAIRS
+
 3 WALKING_DOWNSTAIRS
+
 4 SITTING
+
 5 STANDING
+
 6 LAYING
 
 [3] - [81]: All these variables have been described in features_info.txt 
