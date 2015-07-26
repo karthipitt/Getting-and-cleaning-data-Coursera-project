@@ -14,17 +14,17 @@ All the above data sets were merged to one initial data frame with the following
 [1] subject_id : ID of the subject performing an activity
 [2] activity: ID corresponding to one of the following activities
 
-1 WALKING
+1 Walking
 
-2 WALKING_UPSTAIRS
+2 Walking_Upstairs
 
-3 WALKING_DOWNSTAIRS
+3 Walking_Downstairs
 
-4 SITTING
+4 Sitting 
 
-5 STANDING
+5 Standing
 
-6 LAYING
+6 Laying
 
 [3] - [81]: All these variables have been described in features_info.txt 
 
