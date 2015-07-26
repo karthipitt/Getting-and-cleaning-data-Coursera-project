@@ -2,7 +2,9 @@
 This code book contains information about the data that was analyzed as part of Getting and Cleaning data project from Coursera
 
 Data downloaded on July 25, 2015
+
 Data Source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 More information about the Data: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The initial data set was organized in these files, subject_train.txt, subject_test.txt, x_train.txt, x_test.txt, y_train.txt, y_test.txt.
